@@ -33,7 +33,6 @@ p {
    background-color: transparent;
    background: transparent;
    border-color: transparent;
-
 }
 
 .navbar .navbar-nav {
@@ -46,3 +45,9 @@ p {
 .navbar .navbar-collapse {
   text-align: center;
 }
+
+.animsition .nav > li > a:hover, .nav > li > a:focus {
+  background-color: #EF92A5;
+  text-decoration: none;
+}
+
