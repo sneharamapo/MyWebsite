@@ -1,0 +1,53 @@
+body {
+	font-family: "Oswald", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1.2px;
+	margin: 0px;
+	padding: 0px;
+	background: url(img/sneha.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+nav {
+	color: black;
+}
+
+h1 {
+	color: white;
+	font-size: 170px;
+	padding-top: 200px;
+}
+
+p {
+	color: white;
+	font-size: 50px;
+}
+
+.col-lg-2 ul {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 300px;
+}
+
+li {
+	line-height: 50px;
+}
+
+li a {
+  display: block;
+  color: white;
+	text-decoration: none !important;
+	color: white;
+	font-size: 25px;
+}
+
+li a:hover {
+	color: black;
+}
+
+.col-lg-10 a {
+	text-decoration: none;
+}
