@@ -8,7 +8,9 @@ body {
 	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  color: black;
   background-size: cover;
+  line-height: 30px;
 }
 
 nav {
@@ -51,3 +53,29 @@ p {
   text-decoration: none;
 }
 
+.col-lg-6 img {
+	border-radius: 50%;
+	width: 75%;
+	margin: auto;
+	display: block;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+}
+
+h3 {
+	text-align: left;
+	padding-top: 100px;
+	line-height: 40px;
+}
+
+.name {
+	color: #EF92A5;
+}
+
+.contact-me {
+	color: black;
+	text-align: center;
+}
