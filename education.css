@@ -119,3 +119,13 @@ h3 {
 	color: white;
 	border-color: transparent;
 }
+
+.col-md-12 a {
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+}
+
+.col-md-12 {
+	text-align: center;
+}
