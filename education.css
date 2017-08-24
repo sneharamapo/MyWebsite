@@ -107,3 +107,15 @@ h3 {
 	height: 1px;
 	width: 75%;
 }
+
+.btn-lg {
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+}
+
+.btn-lg:hover {
+	background-color: #EF92A5;
+	color: white;
+	border-color: transparent;
+}
