@@ -63,7 +63,7 @@ p {
 }
 
 .col-lg-6 img {
-	border-radius: 50%;
+	padding-top: 120px;
 	width: 75%;
 	margin: auto;
 	display: block;
