@@ -30,10 +30,8 @@ p {
 }
 
 .navbar {
-   background-color: transparent;
    background: transparent;
    border-color: transparent;
-
 }
 
 .navbar .navbar-nav {
@@ -47,4 +45,10 @@ p {
   text-align: center;
 }
 
-
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #fc0 /* change this to any color you want! */;
+}

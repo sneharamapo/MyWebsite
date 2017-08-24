@@ -48,6 +48,10 @@ p {
   text-align: center;
 }
 
+.navbar-toggle .icon-bar { 
+	color: black;
+}
+
 .animsition .nav > li > a:hover, .nav > li > a:focus {
   background-color: #EF92A5;
   text-decoration: none;
@@ -66,7 +70,7 @@ h2 {
 }
 
 h3 {
-	text-align: left;
+	text-align: center;
 	padding-top: 100px;
 	line-height: 40px;
 }
