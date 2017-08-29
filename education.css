@@ -11,6 +11,7 @@ body {
   color: black;
   background-size: cover;
   line-height: 30px;
+  overflow: hidden;
 }
 
 nav {
