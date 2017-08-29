@@ -129,3 +129,10 @@ h3 {
 .col-md-12 {
 	text-align: center;
 }
+
+.thumbnail p {
+	padding-top: 10px;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
