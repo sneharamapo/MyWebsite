@@ -11,7 +11,6 @@ body {
   color: black;
   background-size: cover;
   line-height: 30px;
-  overflow: hidden;
 }
 
 nav {
@@ -135,5 +134,12 @@ h3 {
 	padding-top: 10px;
 	font-size: 20px;
 	color: black;
+	text-align: center;
+}
+
+.thumbnail {
+	float: none;
+	margin: 0 auto;
+	display: block;
 	text-align: center;
 }
